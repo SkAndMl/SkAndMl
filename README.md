@@ -10,10 +10,25 @@ I have been practising ML for almost 6 months now(Jan 2022) and I have been acti
 #### Interests
 I am fascinated by anything that AI/ML has to offer. NLP and neural networks are fields that interest me the most.
 
+#### Work Experience
+| Airrospace R&D | Period of work (10/2021 - 12/2021) |
+|:---------:|:----------------------------------:|
+| Python programmer | Had to work on OpenCV and Deeplearning |
+
+| The Sparks Foundation | Period of work (12/2021 - 01/2022) |
+|:---------:|:----------------------------------:|
+| Data Science Intern | Had to complete various tasks based on ML |
+
+| Feynn Labs | Period of work (12/2021 - Present) |
+|:---------:|:----------------------------------:|
+| ML Intern | Had to work on customer segmentation for various small scale businesses |
+
+
 **I am active on the following platforms**<br>
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sathya-krishnan-suresh-914763217/) |
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SathyaKrishnan1211/) |
-[Medium](https://medium.com/@mr.sk12112002) |<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathya-krishnan-suresh-914763217/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SathyaKrishnan1211/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.sk12112002) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sathyakrishnan12)<br>
 #### Visitor Count
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SathyaKrishnan1211.visitor-badge&left_color=red&right_color=green) 
 
@@ -26,6 +41,9 @@ I am fascinated by anything that AI/ML has to offer. NLP and neural networks are
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 
@@ -36,11 +54,10 @@ I am fascinated by anything that AI/ML has to offer. NLP and neural networks are
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </p><br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SathyaKrishnan1211&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SathyaKrishnan1211&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaKrishnan1211&layout=compact&theme=cobalt&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SathyaKrishnan1211" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SathyaKrishnan1211" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaKrishnan1211" />
+<img src="https://activity-graph.herokuapp.com/graph?username=SathyaKrishnan1211&theme=minimal" />
 
