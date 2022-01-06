@@ -15,4 +15,6 @@ I am fascinated by anything that AI/ML has to offer. NLP and neural networks are
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SathyaKrishnan1211/) |
 [Medium](https://medium.com/@mr.sk12112002) |<br>
 
-[![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathyaKrishnan1211)](https://github.com/SathyaKrishnan1211/github-readme-stats)
+
+![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathyaKrishnan1211&count_private=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaKrishnan1211&layout=compact)](https://github.com/SathyaKrishnan1211/github-readme-stats)
