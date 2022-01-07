@@ -13,15 +13,15 @@ I am fascinated by anything that AI/ML has to offer. NLP and neural networks are
 #### Work Experience
 | Airrospace R&D | Period of work (10/2021 - 12/2021) |
 |:---------:|:----------------------------------:|
-| Python programmer | Had to work on OpenCV and Deeplearning |
+| Python programmer | Worked on OpenCV and Deeplearning |
 
 | The Sparks Foundation | Period of work (12/2021 - 01/2022) |
 |:---------:|:----------------------------------:|
-| Data Science Intern | Had to complete various tasks based on ML |
+| Data Science Intern | Completed various tasks based on ML |
 
 | Feynn Labs | Period of work (12/2021 - Present) |
 |:---------:|:----------------------------------:|
-| ML Intern | Had to work on customer segmentation for various small scale businesses |
+| ML Intern | Worked on customer segmentation for various small scale businesses |
 
 
 **I am active on the following platforms**<br>
