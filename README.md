@@ -5,12 +5,16 @@
 *I talk about ML a lot* on **Medium**<br><br>
 
 #### What I'm focussing on
-I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects. I am mostly working on **segmentation, eda and math behind ML** for now. Will be active in Kaggle a lot this year
+I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects.<br>I am mostly working on **segmentation, eda and math behind ML** for now.<br>Will be active in Kaggle a lot this year
 
 #### Interests
-I am fascinated by anything that AI/ML has to offer. NLP and neural networks are fields that interest me the most.
+I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks are fields that interest me the most.
 
 #### Work Experience
+| Feynn Labs | Period of work (12/2021 - Present) |
+|:---------:|:----------------------------------:|
+| ML Intern | Worked on customer segmentation for various small scale businesses |
+
 | Airrospace R&D | Period of work (10/2021 - 12/2021) |
 |:---------:|:----------------------------------:|
 | Python programmer | Worked on OpenCV and Deeplearning |
@@ -18,10 +22,6 @@ I am fascinated by anything that AI/ML has to offer. NLP and neural networks are
 | The Sparks Foundation | Period of work (12/2021 - 01/2022) |
 |:---------:|:----------------------------------:|
 | Data Science Intern | Completed various tasks based on ML |
-
-| Feynn Labs | Period of work (12/2021 - Present) |
-|:---------:|:----------------------------------:|
-| ML Intern | Worked on customer segmentation for various small scale businesses |
 
 
 **I am active on the following platforms**<br>
