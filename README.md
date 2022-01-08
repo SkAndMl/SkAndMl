@@ -5,7 +5,7 @@
 *I talk about ML a lot* on **Medium**<br><br>
 
 #### What I'm focussing on
-I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects. I am mostly working on **segmentation, eda and math behind ML** for now. Will be contributing to kaggle a lot this year
+I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects. I am mostly working on **segmentation, eda and math behind ML** for now. Will be active in Kaggle a lot this year
 
 #### Interests
 I am fascinated by anything that AI/ML has to offer. NLP and neural networks are fields that interest me the most.
