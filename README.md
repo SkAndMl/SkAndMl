@@ -2,7 +2,8 @@
 
 *Computer Science Sophomore* at **Puducherry Technological University**<br>
 *Machine learning practitioner* currently working on **Segmentation Projects**<br>
-*I talk about ML a lot* on **Medium**<br><br>
+*I talk about ML a lot* on **Medium**<br>
+Author in *MLearning.ai*<br><br>
 
 #### What I'm focussing on
 I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects.<br>I am mostly working on **segmentation, eda and math behind ML** for now.<br>Will be active in Kaggle a lot this year
