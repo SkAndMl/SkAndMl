@@ -12,7 +12,7 @@ I have been practising ML for almost 6 months now(Jan 2022) and I have been acti
 I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks are fields that interest me the most.
 
 #### Work Experience
-| Feynn Labs | Period of work (12/2021 - Present) |
+| Feynn Labs | Period of work (12/2021 - 3/2022) |
 |:---------:|:----------------------------------:|
 | ML Intern | Worked on customer segmentation for various small scale businesses |
 
