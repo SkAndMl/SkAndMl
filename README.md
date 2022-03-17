@@ -1,12 +1,12 @@
 ### Hello everyone, I am Sathya Krishnan<br><br>
 
 *Computer Science Sophomore* at **Puducherry Technological University**<br>
-*Machine learning practitioner* currently working on **Segmentation Projects**<br>
+*Machine learning practitioner* currently working on **Neural Networks**<br>
 *I talk about ML a lot* on **Medium**<br>
 Author in *MLearning.ai*<br><br>
 
 #### What I'm focussing on
-I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects.<br>I am mostly working on **segmentation, eda and math behind ML** for now.<br>Will be active in Kaggle a lot this year
+I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects.<br>I am mostly working on **tensorflow, neural networks and deep learning** for now.<br>Will be active in Kaggle a lot this year. Check out my *Low-key-ML* repo. You will find a small ML library there which I have been updating constantly.
 
 #### Interests
 I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks are fields that interest me the most.
