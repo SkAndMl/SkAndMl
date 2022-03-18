@@ -15,11 +15,6 @@ I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks
 | Feynn Labs | Period of work (12/2021 - 3/2022) |
 |:---------:|:----------------------------------:|
 | ML Intern | Worked on customer segmentation for various small scale businesses |
-
-| Airrospace R&D | Period of work (10/2021 - 12/2021) |
-|:---------:|:----------------------------------:|
-| Python programmer | Worked on OpenCV and Deeplearning |
-
 | The Sparks Foundation | Period of work (12/2021 - 01/2022) |
 |:---------:|:----------------------------------:|
 | Data Science Intern | Completed various tasks based on ML |
