@@ -16,7 +16,6 @@ I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks
 |:---------:|:----------------------------------:|
 | ML Intern | Worked on customer segmentation for various small scale businesses |
 | The Sparks Foundation | Period of work (12/2021 - 01/2022) |
-|:---------:|:----------------------------------:|
 | Data Science Intern | Completed various tasks based on ML |
 
 
