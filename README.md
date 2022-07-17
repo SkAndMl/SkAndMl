@@ -1,6 +1,6 @@
 ### Hello everyone, I am Sathya Krishnan<br><br>
 
-*Computer Science Sophomore* at **Puducherry Technological University**<br>
+*Computer Science Pre-Final Year* at **Puducherry Technological University**<br>
 *Machine learning practitioner* currently working on **Neural Networks**<br>
 *I talk about ML a lot* on **Medium**<br>
 Author in *MLearning.ai*<br><br>
