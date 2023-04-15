@@ -25,7 +25,7 @@ I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.sk12112002) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sathyakrishnan12)<br>
 #### Visitor Count
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SathyaKrishnan1211.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SkAndMl.visitor-badge&left_color=red&right_color=green) 
 
 
 #### Languages
@@ -54,8 +54,8 @@ I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </p><br>
-<img src="https://github-readme-stats.vercel.app/api?username=SathyaKrishnan1211" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SathyaKrishnan1211" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaKrishnan1211" />
-<img src="https://activity-graph.herokuapp.com/graph?username=SathyaKrishnan1211&theme=minimal" />
+<img src="https://github-readme-stats.vercel.app/api?username=SkAndMl" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SkAndMl" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAndMl" />
+<img src="https://activity-graph.herokuapp.com/graph?username=SkAndMl&theme=minimal" />
 
