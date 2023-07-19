@@ -1,19 +1,20 @@
 ### Hello everyone, I am Sathya Krishnan<br><br>
 
-*Computer Science Pre-Final Year* at **Puducherry Technological University**<br>
-*Machine learning practitioner* currently working on **Neural Networks**<br>
-*I talk about ML a lot* on **Medium**<br>
-Author in *MLearning.ai*<br><br>
+*Computer Science Final Year* at **Puducherry Technological University**<br>
+*Machine learning researcher* currently working on **Transformers**<br>
+*I talk about ML a lot* on **Medium** <br>
 
 #### What I'm focussing on
-I have been practising ML for almost 6 months now(Jan 2022) and I have been actively participating in projects.<br>I am mostly working on **tensorflow, neural networks and deep learning** for now.<br>Will be active in Kaggle a lot this year. <br>Check out my *Low-key-ML* repo. You will find a small ML library there which I have been updating constantly.
+Currently my area of interest is transformers - creating them, pre-training them and fine-tuning them
 
 #### Interests
 I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks are fields that interest me the most.
 
 #### Work Experience
-| Feynn Labs | Period of work (12/2021 - 3/2022) |
+| Testbook.com | Period of work (06/2022 - 04/2023) |
 |:---------:|:----------------------------------:|
+| Data Science TA | Graded students assignments and helped framing assignments |
+| Feynn Labs | Period of work (12/2021 - 3/2022) |
 | ML Intern | Worked on customer segmentation for various small scale businesses |
 | The Sparks Foundation | Period of work (12/2021 - 01/2022) |
 | Data Science Intern | Completed various tasks based on ML |
@@ -24,9 +25,6 @@ I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SathyaKrishnan1211/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mr.sk12112002) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sathyakrishnan12)<br>
-#### Visitor Count
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SkAndMl.visitor-badge&left_color=red&right_color=green) 
-
 
 #### Languages
 <p>
