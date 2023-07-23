@@ -54,6 +54,4 @@ I am fascinated by anything that AI/ML has to offer. <br>NLP and neural networks
 </p><br>
 <img src="https://github-readme-stats.vercel.app/api?username=SkAndMl" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkAndMl" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAndMl" />
-<img src="https://activity-graph.herokuapp.com/graph?username=SkAndMl&theme=minimal" />
 
